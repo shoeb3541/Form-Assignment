@@ -1,0 +1,20 @@
+body{
+    border: 1px black;
+}
+.contener{
+    height: auto;
+    width: 680px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpeDlxqFzpoiZLCx17cIEU-SptAuJP8ziRw&usqp=CAU);
+    margin: auto;
+    border-radius: 0%;
+    
+    
+}
+#form{
+    margin: 0;
+    padding: 2px;
+}
+h1{
+    padding: 1px;
+}
+
